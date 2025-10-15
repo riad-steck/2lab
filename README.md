@@ -1,1 +1,1 @@
-TEST CHANGES FOR STUDYING
+ПРОВЕРОЧНЫЕ ИЗМЕНЕНИЯ
